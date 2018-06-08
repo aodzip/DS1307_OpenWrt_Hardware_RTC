@@ -2,4 +2,5 @@
 *.bin
 *.hex
 *.map
+*.out
 .vscode
